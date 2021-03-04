@@ -1,0 +1,484 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "无处不在的数据挖掘",
+	"ownedElements": [
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAF38j07cq36DHo=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "数据挖掘与其它学科",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAF38j07cq37i1k=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "DataMiming",
+					"ownedViews": [
+						{
+							"_type": "FCTerminatorView",
+							"_id": "AAAAAAF38j3VNq4BSUw=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF38j3VNq4CjTs=",
+									"_parent": {
+										"$ref": "AAAAAAF38j3VNq4BSUw="
+									},
+									"font": "Arial;13;0",
+									"left": 234,
+									"top": 202,
+									"width": 69,
+									"height": 39,
+									"text": "数据挖掘 Data Miming",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 224,
+							"top": 192,
+							"width": 89,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAF38j3VNq4CjTs="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF38kF3ha4zWzM=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kF3hK4xAKI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF38kF3ha40NGU=",
+									"_parent": {
+										"$ref": "AAAAAAF38kF3ha4zWzM="
+									},
+									"font": "Arial;13;0",
+									"left": 74,
+									"top": 202,
+									"width": 65.76806640625,
+									"height": 39,
+									"text": "人工智能 Artifical Intelligence",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 64,
+							"top": 192,
+							"width": 85.76806640625,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAF38kF3ha40NGU="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF38kMFEK4+dAU=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kMFEK48Rpc="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF38kMFEK4/sqc=",
+									"_parent": {
+										"$ref": "AAAAAAF38kMFEK4+dAU="
+									},
+									"model": {
+										"$ref": "AAAAAAF38kMFEK48Rpc="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 185,
+									"top": 230,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF38kMFEK4+dAU="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF38kF3ha4zWzM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF38j3VNq4BSUw="
+							},
+							"lineStyle": 2,
+							"points": "224:221;149:221",
+							"nameLabel": {
+								"$ref": "AAAAAAF38kMFEK4/sqc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF38kMgla5HPBg=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kMgla5FmYk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF38kMgla5IebU=",
+									"_parent": {
+										"$ref": "AAAAAAF38kMgla5HPBg="
+									},
+									"font": "Arial;13;0",
+									"left": 242,
+									"top": 90,
+									"width": 54.18994140625,
+									"height": 39,
+									"text": "机器学习 Machine Learning",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 232,
+							"top": 80,
+							"width": 74.18994140625,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAF38kMgla5IebU="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF38kPo1K5jD6I=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kPo1K5hVgA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF38kPo1K5kmeo=",
+									"_parent": {
+										"$ref": "AAAAAAF38kPo1K5jD6I="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 202,
+									"width": 71.54443359375,
+									"height": 39,
+									"text": "模式识别 Pattern Recognition",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 192,
+							"width": 91.54443359375,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAF38kPo1K5kmeo="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF38kUcm65w3lA=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kUcm65uuHM="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF38kUcm65xCf0=",
+									"_parent": {
+										"$ref": "AAAAAAF38kUcm65w3lA="
+									},
+									"font": "Arial;13;0",
+									"left": 242,
+									"top": 322,
+									"width": 54.18994140625,
+									"height": 26,
+									"text": "统计学 Statistic",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 232,
+							"top": 312,
+							"width": 74.18994140625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF38kUcm65xCf0="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF38kW+Yq6BURk=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kW+Yq5/E5E="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF38kW+Y66CQKw=",
+									"_parent": {
+										"$ref": "AAAAAAF38kW+Yq6BURk="
+									},
+									"model": {
+										"$ref": "AAAAAAF38kW+Yq5/E5E="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 253,
+									"top": 158,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF38kW+Yq6BURk="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF38kMgla5HPBg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF38j3VNq4BSUw="
+							},
+							"lineStyle": 2,
+							"points": "268:192;268:138",
+							"nameLabel": {
+								"$ref": "AAAAAAF38kW+Y66CQKw="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF38kXOlK6KORc=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kXOlK6Ivcs="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF38kXOlK6L2sQ=",
+									"_parent": {
+										"$ref": "AAAAAAF38kXOlK6KORc="
+									},
+									"model": {
+										"$ref": "AAAAAAF38kXOlK6Ivcs="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 348,
+									"top": 200,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF38kXOlK6KORc="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF38kPo1K5jD6I="
+							},
+							"tail": {
+								"$ref": "AAAAAAF38j3VNq4BSUw="
+							},
+							"lineStyle": 2,
+							"points": "312:221;384:221",
+							"nameLabel": {
+								"$ref": "AAAAAAF38kXOlK6L2sQ="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF38kXe8q6TZ1M=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"model": {
+								"$ref": "AAAAAAF38kXe8q6R1eE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF38kXe8q6UOxI=",
+									"_parent": {
+										"$ref": "AAAAAAF38kXe8q6TZ1M="
+									},
+									"model": {
+										"$ref": "AAAAAAF38kXe8q6R1eE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 282,
+									"top": 274,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF38kXe8q6TZ1M="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF38kUcm65w3lA="
+							},
+							"tail": {
+								"$ref": "AAAAAAF38j3VNq4BSUw="
+							},
+							"lineStyle": 2,
+							"points": "268:250;268:312",
+							"nameLabel": {
+								"$ref": "AAAAAAF38kXe8q6UOxI="
+							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAF38kZUJ66bnys=",
+							"_parent": {
+								"$ref": "AAAAAAF38j07cq37i1k="
+							},
+							"font": "Arial;13;0",
+							"left": 184,
+							"top": 40,
+							"width": 166,
+							"height": 25,
+							"text": "数据挖掘与其它领域的联系"
+						}
+					]
+				},
+				{
+					"_type": "FCTerminator",
+					"_id": "AAAAAAF38j3VNq3/Bho=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "数据挖掘 Data Miming",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF38kMFEK48Rpc=",
+							"_parent": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"source": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"target": {
+								"$ref": "AAAAAAF38kF3hK4xAKI="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF38kW+Yq5/E5E=",
+							"_parent": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"source": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"target": {
+								"$ref": "AAAAAAF38kMgla5FmYk="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF38kXOlK6Ivcs=",
+							"_parent": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"source": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"target": {
+								"$ref": "AAAAAAF38kPo1K5hVgA="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF38kXe8q6R1eE=",
+							"_parent": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"source": {
+								"$ref": "AAAAAAF38j3VNq3/Bho="
+							},
+							"target": {
+								"$ref": "AAAAAAF38kUcm65uuHM="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF38kF3hK4xAKI=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "人工智能 Artifical Intelligence"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF38kMgla5FmYk=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "机器学习 Machine Learning"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF38kPo1K5hVgA=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "模式识别 Pattern Recognition"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF38kUcm65uuHM=",
+					"_parent": {
+						"$ref": "AAAAAAF38j07cq36DHo="
+					},
+					"name": "统计学 Statistic"
+				}
+			]
+		}
+	]
+}
