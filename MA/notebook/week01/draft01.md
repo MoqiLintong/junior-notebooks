@@ -7,7 +7,7 @@
 <font size="5">发展历程[^发展历程]</font>
 
 *图解：*  
-![](../images/Android 发展历程.svg)
+![AndroidHistory](../images/AndroidHistory.svg)
 
 *文字描述：*  
 2003 年 10 月， 安迪-鲁宾（Andy Rubin）等人创建 Android 公司，并组建 Android 团队；
