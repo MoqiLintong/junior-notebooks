@@ -1,0 +1,3001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="666.01904296875"
+   height="924"
+   id="svg1326"
+   sodipodi:docname="Android 发展历程.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata1330">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="965"
+     id="namedview1328"
+     showgrid="false"
+     inkscape:zoom="0.85281385"
+     inkscape:cx="314.92491"
+     inkscape:cy="291.63724"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1326" />
+  <defs
+     id="defs2" />
+  <g
+     id="g1324">
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g254">
+      <path
+         fill="#ff0000"
+         stroke="none"
+         d="M 144.5 176 L 208.5 176 Q 225 176 225 192.5 L 225 191.5 Q 225 208 208.5 208 L 144.5 208 Q 128 208 128 191.5 L 128 192.5 Q 128 176 144.5 176 Z"
+         id="path252" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g258">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 144.5 176 L 208.5 176 Q 225 176 225 192.5 L 225 191.5 Q 225 208 208.5 208 L 144.5 208 Q 128 208 128 191.5 L 128 192.5 Q 128 176 144.5 176 Z"
+         stroke-miterlimit="10"
+         id="path256" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g266">
+      <g
+         id="g264">
+        <path
+           fill="none"
+           stroke="none"
+           id="path260" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="137.5"
+           y="198.5"
+           id="text262">安卓发展历程</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g270">
+      <path
+         fill="#38bcff"
+         stroke="#000000"
+         d="M 280 176 L 384 176 L 384 213 C 350 201 314 222 280 207 L 280 176 Z"
+         stroke-miterlimit="10"
+         id="path268" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g278">
+      <g
+         id="g276">
+        <path
+           fill="none"
+           stroke="none"
+           id="path272" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="291.892333984375"
+           y="198"
+           id="text274">2003 年 10 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g282">
+      <path
+         fill="#38bcff"
+         stroke="#000000"
+         d="M 472 176 L 568 176 L 568 208 C 536 198 504 215.5 472 203 L 472 176 Z"
+         stroke-miterlimit="10"
+         id="path280" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g290">
+      <g
+         id="g288">
+        <path
+           fill="none"
+           stroke="none"
+           id="path284" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="483.50732421875"
+           y="196"
+           id="text286">2005 年 8 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g294">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 256 96 L 347.80810546875 96 L 357.80810546875 106 L 357.80810546875 145 L 256 145 L 256 96"
+         id="path292" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g298">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 256 96 L 347.80810546875 96 L 357.80810546875 106 L 357.80810546875 145 L 256 145 L 256 96 L 256 96"
+         stroke-miterlimit="10"
+         id="path296" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g302">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 347.80810546875 96 L 347.80810546875 106 L 357.80810546875 106 L 347.80810546875 96"
+         stroke-miterlimit="10"
+         id="path300" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g314">
+      <g
+         id="g312">
+        <path
+           fill="none"
+           stroke="none"
+           id="path304" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="261"
+           y="114"
+           id="text306">Andy Bubin</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="261"
+           y="127"
+           id="text308">创建了Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="261"
+           y="140"
+           id="text310">公司</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g318">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 424 96 L 509 96 L 519 106 L 519 142 L 424 142 L 424 96"
+         id="path316" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g322">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 424 96 L 509 96 L 519 106 L 519 142 L 424 142 L 424 96 L 424 96"
+         stroke-miterlimit="10"
+         id="path320" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g326">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 509 96 L 509 106 L 519 106 L 509 96"
+         stroke-miterlimit="10"
+         id="path324" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g336">
+      <g
+         id="g334">
+        <path
+           fill="none"
+           stroke="none"
+           id="path328" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="429"
+           y="114"
+           id="text330">Google 收购</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="429"
+           y="127"
+           id="text332">Android 公司</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g340">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 225 190 L 280 190"
+         stroke-miterlimit="10"
+         id="path338" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g344">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 194.209517756016 L 280 190 L 269.83732514237585 185.790482243984"
+         id="path342" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g348">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 194.209517756016 L 280 190 L 269.83732514237585 185.790482243984 L 269.83732514237585 194.209517756016"
+         stroke-miterlimit="10"
+         id="path346" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g352">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 191 L 472 191"
+         stroke-miterlimit="10"
+         id="path350" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g356">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 461.83732514237585 195.209517756016 L 472 191 L 461.83732514237585 186.790482243984"
+         id="path354" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g360">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 461.83732514237585 195.209517756016 L 472 191 L 461.83732514237585 186.790482243984 L 461.83732514237585 195.209517756016"
+         stroke-miterlimit="10"
+         id="path358" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g364">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 316 147 L 325 175"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path362" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g368">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 488 144 L 509 175"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path366" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g372">
+      <path
+         fill="#38bcff"
+         stroke="#000000"
+         d="M 632 176 L 736 176 L 736 208 C 702 198 666 215.5 632 203 L 632 176 Z"
+         stroke-miterlimit="10"
+         id="path370" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g380">
+      <g
+         id="g378">
+        <path
+           fill="none"
+           stroke="none"
+           id="path374" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="644.374755859375"
+           y="196"
+           id="text376">2007 年 11 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g384">
+      <path
+         fill="#38bcff"
+         stroke="#000000"
+         d="M 280 312 L 384 312 L 384 344 C 350 334 314 351.5 280 339 L 280 312 Z"
+         stroke-miterlimit="10"
+         id="path382" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g392">
+      <g
+         id="g390">
+        <path
+           fill="none"
+           stroke="none"
+           id="path386" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="295.50732421875"
+           y="332"
+           id="text388">2008 年 9 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g396">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 192 248 L 343 248 L 353 258 L 353 286 L 192 286 L 192 248"
+         id="path394" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g400">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 192 248 L 343 248 L 353 258 L 353 286 L 192 286 L 192 248 L 192 248"
+         stroke-miterlimit="10"
+         id="path398" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g404">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 343 248 L 343 258 L 353 258 L 343 248"
+         stroke-miterlimit="10"
+         id="path402" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g414">
+      <g
+         id="g412">
+        <path
+           fill="none"
+           stroke="none"
+           id="path406" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="197"
+           y="266"
+           id="text408">Android 1.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="197"
+           y="279"
+           id="text410">（发条机器人）系统发布</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g418">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 568 48 L 738.55078125 48 L 748.55078125 58 L 748.55078125 84 L 568 84 L 568 48"
+         id="path416" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g422">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 568 48 L 738.55078125 48 L 748.55078125 58 L 748.55078125 84 L 568 84 L 568 48 L 568 48"
+         stroke-miterlimit="10"
+         id="path420" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g426">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 738.55078125 48 L 738.55078125 58 L 748.55078125 58 L 738.55078125 48"
+         stroke-miterlimit="10"
+         id="path424" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g434">
+      <g
+         id="g432">
+        <path
+           fill="none"
+           stroke="none"
+           id="path428" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="573"
+           y="66"
+           id="text430">AndroidBeta（阿童木）发布</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g438">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 592 88 L 704 88 L 714 98 L 714 126 L 592 126 L 592 88"
+         id="path436" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g442">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 592 88 L 704 88 L 714 98 L 714 126 L 592 126 L 592 88 L 592 88"
+         stroke-miterlimit="10"
+         id="path440" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g446">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 704 88 L 704 98 L 714 98 L 704 88"
+         stroke-miterlimit="10"
+         id="path444" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g456">
+      <g
+         id="g454">
+        <path
+           fill="none"
+           stroke="none"
+           id="path448" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="597"
+           y="106"
+           id="text450">开放手持设备联盟</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="597"
+           y="119"
+           id="text452">OHA 建立</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g460">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 616 128 L 689 128 L 699 138 L 699 166 L 616 166 L 616 128"
+         id="path458" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g464">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 616 128 L 689 128 L 699 138 L 699 166 L 616 166 L 616 128 L 616 128"
+         stroke-miterlimit="10"
+         id="path462" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g468">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 689 128 L 689 138 L 699 138 L 689 128"
+         stroke-miterlimit="10"
+         id="path466" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g478">
+      <g
+         id="g476">
+        <path
+           fill="none"
+           stroke="none"
+           id="path470" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="146"
+           id="text472">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="159"
+           id="text474">源代码发布</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g482">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 568 192 L 632 192"
+         stroke-miterlimit="10"
+         id="path480" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g486">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 621.8373251423759 196.209517756016 L 632 192 L 621.8373251423758 187.790482243984"
+         id="path484" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g490">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 621.8373251423759 196.209517756016 L 632 192 L 621.8373251423758 187.790482243984 L 621.8373251423759 196.209517756016"
+         stroke-miterlimit="10"
+         id="path488" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g494">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 696 208 L 696 224 M 696 224 A 8 8 0 0 1 688 232 L 168 232 M 168 232 A 8 8 0 0 0 160 240 L 160 320 M 160 320 A 8 8 0 0 0 168 328 L 280 328"
+         stroke-miterlimit="10"
+         id="path492" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g498">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 332.209517756016 L 280 328 L 269.83732514237585 323.790482243984"
+         id="path496" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g502">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 332.209517756016 L 280 328 L 269.83732514237585 323.790482243984 L 269.83732514237585 332.209517756016"
+         stroke-miterlimit="10"
+         id="path500" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g506">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 662 86 L 680 175"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path504" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g510">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 661 128 L 678 175"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path508" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g514">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 670 168 L 674 175"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path512" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g518">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 293 288 L 316 311"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path516" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g522">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 472 304 L 568 304 L 568 336 C 536 326 504 343.5 472 331 L 472 304 Z"
+         stroke-miterlimit="10"
+         id="path520" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g530">
+      <g
+         id="g528">
+        <path
+           fill="none"
+           stroke="none"
+           id="path524" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="483.50732421875"
+           y="324"
+           id="text526">2009 年 4 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g534">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 416 240 L 483.96630859375 240 L 493.96630859375 250 L 493.96630859375 289 L 416 289 L 416 240"
+         id="path532" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g538">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 416 240 L 483.96630859375 240 L 493.96630859375 250 L 493.96630859375 289 L 416 289 L 416 240 L 416 240"
+         stroke-miterlimit="10"
+         id="path536" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g542">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 483.96630859375 240 L 483.96630859375 250 L 493.96630859375 250 L 483.96630859375 240"
+         stroke-miterlimit="10"
+         id="path540" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g552">
+      <g
+         id="g550">
+        <path
+           fill="none"
+           stroke="none"
+           id="path544" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="421"
+           y="258"
+           id="text546">Android 1.5</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="421"
+           y="271"
+           id="text548">(Cupcake)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g556">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 632 304 L 736 304 L 736 336 C 702 326 666 343.5 632 331 L 632 304 Z"
+         stroke-miterlimit="10"
+         id="path554" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g564">
+      <g
+         id="g562">
+        <path
+           fill="none"
+           stroke="none"
+           id="path558" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="647.50732421875"
+           y="324"
+           id="text560">2009 年 9 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g568">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 280 440 L 384 440 L 384 472 C 350 462 314 479.5 280 467 L 280 440 Z"
+         stroke-miterlimit="10"
+         id="path566" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g576">
+      <g
+         id="g574">
+        <path
+           fill="none"
+           stroke="none"
+           id="path570" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="295.50732421875"
+           y="460"
+           id="text572">2010 年 2 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g580">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 464 440 L 576 440 L 576 472 C 539 462 501 479.5 464 467 L 464 440 Z"
+         stroke-miterlimit="10"
+         id="path578" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g588">
+      <g
+         id="g586">
+        <path
+           fill="none"
+           stroke="none"
+           id="path582" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="479.892333984375"
+           y="460"
+           id="text584">2010 年 10 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g592">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 640 440 L 736 440 L 736 472 C 704 462 672 479.5 640 467 L 640 440 Z"
+         stroke-miterlimit="10"
+         id="path590" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g600">
+      <g
+         id="g598">
+        <path
+           fill="none"
+           stroke="none"
+           id="path594" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="651.98974609375"
+           y="460"
+           id="text596">2011 年 8 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g604">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 280 568 L 376 568 L 376 600 C 344 590 312 607.5 280 595 L 280 568 Z"
+         stroke-miterlimit="10"
+         id="path602" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g612">
+      <g
+         id="g610">
+        <path
+           fill="none"
+           stroke="none"
+           id="path606" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="291.98974609375"
+           y="588"
+           id="text608">2011 年 9 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g616">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 648 568 L 752 568 L 752 600 C 718 590 682 607.5 648 595 L 648 568 Z"
+         stroke-miterlimit="10"
+         id="path614" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g624">
+      <g
+         id="g622">
+        <path
+           fill="none"
+           stroke="none"
+           id="path618" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="660.374755859375"
+           y="588"
+           id="text620">2013 年 11 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g628">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 592 240 L 650 240 L 660 250 L 660 289 L 592 289 L 592 240"
+         id="path626" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g632">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 592 240 L 650 240 L 660 250 L 660 289 L 592 289 L 592 240 L 592 240"
+         stroke-miterlimit="10"
+         id="path630" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g636">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 650 240 L 650 250 L 660 250 L 650 240"
+         stroke-miterlimit="10"
+         id="path634" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g648">
+      <g
+         id="g646">
+        <path
+           fill="none"
+           stroke="none"
+           id="path638" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="597"
+           y="258"
+           id="text640">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="597"
+           y="271"
+           id="text642">1.6</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="597"
+           y="284"
+           id="text644">(Donut)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g652">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 224 368 L 297 368 L 307 378 L 307 430 L 224 430 L 224 368"
+         id="path650" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g656">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 224 368 L 297 368 L 307 378 L 307 430 L 224 430 L 224 368 L 224 368"
+         stroke-miterlimit="10"
+         id="path654" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g660">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 297 368 L 297 378 L 307 378 L 297 368"
+         stroke-miterlimit="10"
+         id="path658" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g674">
+      <g
+         id="g672">
+        <path
+           fill="none"
+           stroke="none"
+           id="path662" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="386"
+           id="text664">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="399"
+           id="text666">驱动程序从</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="412"
+           id="text668">Linux</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="425"
+           id="text670">内核上除去</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g678">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 408 368 L 468 368 L 478 378 L 478 430 L 408 430 L 408 368"
+         id="path676" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g682">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 408 368 L 468 368 L 478 378 L 478 430 L 408 430 L 408 368 L 408 368"
+         stroke-miterlimit="10"
+         id="path680" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g686">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 468 368 L 468 378 L 478 378 L 468 368"
+         stroke-miterlimit="10"
+         id="path684" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g700">
+      <g
+         id="g698">
+        <path
+           fill="none"
+           stroke="none"
+           id="path688" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="386"
+           id="text690">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="399"
+           id="text692">应用</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="412"
+           id="text694">数量达到</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="425"
+           id="text696">10 万</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g704">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 560 376 L 763.01904296875 376 L 773.01904296875 386 L 773.01904296875 425 L 560 425 L 560 376"
+         id="path702" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g708">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 560 376 L 763.01904296875 376 L 773.01904296875 386 L 773.01904296875 425 L 560 425 L 560 376 L 560 376"
+         stroke-miterlimit="10"
+         id="path706" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g712">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 763.01904296875 376 L 763.01904296875 386 L 773.01904296875 386 L 763.01904296875 376"
+         stroke-miterlimit="10"
+         id="path710" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g722">
+      <g
+         id="g720">
+        <path
+           fill="none"
+           stroke="none"
+           id="path714" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="565"
+           y="394"
+           id="text716">占据全球智能手机48%份额，终结</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="565"
+           y="407"
+           id="text718">Symbian 地位</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g726">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 224 496 L 292.6962890625 496 L 302.6962890625 506 L 302.6962890625 558 L 224 558 L 224 496"
+         id="path724" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g730">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 224 496 L 292.6962890625 496 L 302.6962890625 506 L 302.6962890625 558 L 224 558 L 224 496 L 224 496"
+         stroke-miterlimit="10"
+         id="path728" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g734">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 292.6962890625 496 L 292.6962890625 506 L 302.6962890625 506 L 292.6962890625 496"
+         stroke-miterlimit="10"
+         id="path732" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g746">
+      <g
+         id="g744">
+        <path
+           fill="none"
+           stroke="none"
+           id="path736" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="514"
+           id="text738">Android 4.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="527"
+           id="text740">(Ice Cream</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="540"
+           id="text742">Sandwich)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g750">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 616 504 L 674 504 L 684 514 L 684 553 L 616 553 L 616 504"
+         id="path748" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g754">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 616 504 L 674 504 L 684 514 L 684 553 L 616 553 L 616 504 L 616 504"
+         stroke-miterlimit="10"
+         id="path752" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g758">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 674 504 L 674 514 L 684 514 L 674 504"
+         stroke-miterlimit="10"
+         id="path756" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g770">
+      <g
+         id="g768">
+        <path
+           fill="none"
+           stroke="none"
+           id="path760" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="522"
+           id="text762">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="535"
+           id="text764">4.4</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="548"
+           id="text766">(Kitcat)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g774">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 328 L 472 328"
+         stroke-miterlimit="10"
+         id="path772" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g778">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 461.83732514237585 332.209517756016 L 472 328 L 461.83732514237585 323.790482243984"
+         id="path776" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g782">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 461.83732514237585 332.209517756016 L 472 328 L 461.83732514237585 323.790482243984 L 461.83732514237585 332.209517756016"
+         stroke-miterlimit="10"
+         id="path780" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g786">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 568 328 L 632 328"
+         stroke-miterlimit="10"
+         id="path784" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g790">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 621.8373251423759 332.209517756016 L 632 328 L 621.8373251423758 323.790482243984"
+         id="path788" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g794">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 621.8373251423759 332.209517756016 L 632 328 L 621.8373251423758 323.790482243984 L 621.8373251423759 332.209517756016"
+         stroke-miterlimit="10"
+         id="path792" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g798">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 648 336 L 648 352 M 648 352 A 8 8 0 0 1 640 360 L 168 360 M 168 360 A 8 8 0 0 0 160 368 L 160 448 M 160 448 A 8 8 0 0 0 168 456 L 280 456"
+         stroke-miterlimit="10"
+         id="path796" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g802">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 460.209517756016 L 280 456 L 269.83732514237585 451.790482243984"
+         id="path800" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g806">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 460.209517756016 L 280 456 L 269.83732514237585 451.790482243984 L 269.83732514237585 460.209517756016"
+         stroke-miterlimit="10"
+         id="path804" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g810">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 456 L 464 456"
+         stroke-miterlimit="10"
+         id="path808" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g814">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 453.83732514237585 460.209517756016 L 464 456 L 453.83732514237585 451.790482243984"
+         id="path812" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g818">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.83732514237585 460.209517756016 L 464 456 L 453.83732514237585 451.790482243984 L 453.83732514237585 460.209517756016"
+         stroke-miterlimit="10"
+         id="path816" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g822">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 576 456 L 640 456"
+         stroke-miterlimit="10"
+         id="path820" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g826">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 629.8373251423759 460.209517756016 L 640 456 L 629.8373251423758 451.790482243984"
+         id="path824" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g830">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 629.8373251423759 460.209517756016 L 640 456 L 629.8373251423758 451.790482243984 L 629.8373251423759 460.209517756016"
+         stroke-miterlimit="10"
+         id="path828" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g834">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 664 472 L 664 480 M 664 480 A 8 8 0 0 1 656 488 L 168 488 M 168 488 A 8 8 0 0 0 160 496 L 160 576 M 160 576 A 8 8 0 0 0 168 584 L 280 584"
+         stroke-miterlimit="10"
+         id="path832" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g838">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 588.209517756016 L 280 584 L 269.83732514237585 579.790482243984"
+         id="path836" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g842">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 588.209517756016 L 280 584 L 269.83732514237585 579.790482243984 L 269.83732514237585 588.209517756016"
+         stroke-miterlimit="10"
+         id="path840" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g846">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 486 291 L 500 303"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path844" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g850">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 653 291 L 666 303"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path848" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g854">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 304 432 L 312 439"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path852" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g858">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 480 426 L 497 439"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path856" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g862">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 677 427 L 682 439"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path860" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g866">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 301 560 L 309 567"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path864" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g870">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 674 555 L 685 567"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path868" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g874">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 464 568 L 560 568 L 560 600 C 528 590 496 607.5 464 595 L 464 568 Z"
+         stroke-miterlimit="10"
+         id="path872" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g882">
+      <g
+         id="g880">
+        <path
+           fill="none"
+           stroke="none"
+           id="path876" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="475.50732421875"
+           y="588"
+           id="text878">2012 年 6 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g886">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 272 672 L 376 672 L 376 704 C 342 694 306 711.5 272 699 L 272 672 Z"
+         stroke-miterlimit="10"
+         id="path884" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g894">
+      <g
+         id="g892">
+        <path
+           fill="none"
+           stroke="none"
+           id="path888" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="283.892333984375"
+           y="692"
+           id="text890">2014 年 10 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g898">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 464 672 L 560 672 L 560 704 C 528 694 496 711.5 464 699 L 464 672 Z"
+         stroke-miterlimit="10"
+         id="path896" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g906">
+      <g
+         id="g904">
+        <path
+           fill="none"
+           stroke="none"
+           id="path900" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="475.50732421875"
+           y="692"
+           id="text902">2015 年 5 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g910">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 648 672 L 752 672 L 752 704 C 718 694 682 711.5 648 699 L 648 672 Z"
+         stroke-miterlimit="10"
+         id="path908" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g918">
+      <g
+         id="g916">
+        <path
+           fill="none"
+           stroke="none"
+           id="path912" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="663.50732421875"
+           y="692"
+           id="text914">2016 年 8 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g922">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 280 808 L 376 808 L 376 840 C 344 830 312 847.5 280 835 L 280 808 Z"
+         stroke-miterlimit="10"
+         id="path920" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g930">
+      <g
+         id="g928">
+        <path
+           fill="none"
+           stroke="none"
+           id="path924" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="291.50732421875"
+           y="828"
+           id="text926">2017 年 8 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g934">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 464 808 L 568 808 L 568 840 C 534 830 498 847.5 464 835 L 464 808 Z"
+         stroke-miterlimit="10"
+         id="path932" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g942">
+      <g
+         id="g940">
+        <path
+           fill="none"
+           stroke="none"
+           id="path936" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="479.50732421875"
+           y="828"
+           id="text938">2018 年 8 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g946">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 408 496 L 466 496 L 476 506 L 476 558 L 408 558 L 408 496"
+         id="path944" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g950">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 408 496 L 466 496 L 476 506 L 476 558 L 408 558 L 408 496 L 408 496"
+         stroke-miterlimit="10"
+         id="path948" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g954">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 466 496 L 466 506 L 476 506 L 466 496"
+         stroke-miterlimit="10"
+         id="path952" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g966">
+      <g
+         id="g964">
+        <path
+           fill="none"
+           stroke="none"
+           id="path956" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="514"
+           id="text958">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="527"
+           id="text960">4.1 (Jelly</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="413"
+           y="540"
+           id="text962">Bean)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g970">
+      <path
+         fill="#ffeaad"
+         stroke="none"
+         d="M 224 616 L 303.54443359375 616 L 313.54443359375 626 L 313.54443359375 654 L 224 654 L 224 616"
+         id="path968" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g974">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 224 616 L 303.54443359375 616 L 313.54443359375 626 L 313.54443359375 654 L 224 654 L 224 616 L 224 616"
+         stroke-miterlimit="10"
+         id="path972" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g978">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 303.54443359375 616 L 303.54443359375 626 L 313.54443359375 626 L 303.54443359375 616"
+         stroke-miterlimit="10"
+         id="path976" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g988">
+      <g
+         id="g986">
+        <path
+           fill="none"
+           stroke="none"
+           id="path980" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="634"
+           id="text982">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="647"
+           id="text984">5.0(Lollipop)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g992">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 400 616 L 493.22998046875 616 L 503.22998046875 626 L 503.22998046875 665 L 400 665 L 400 616"
+         id="path990" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g996">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 400 616 L 493.22998046875 616 L 503.22998046875 626 L 503.22998046875 665 L 400 665 L 400 616 L 400 616"
+         stroke-miterlimit="10"
+         id="path994" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1000">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 493.22998046875 616 L 493.22998046875 626 L 503.22998046875 626 L 493.22998046875 616"
+         stroke-miterlimit="10"
+         id="path998" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1010">
+      <g
+         id="g1008">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1002" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="405"
+           y="634"
+           id="text1004">Android 6.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="405"
+           y="647"
+           id="text1006">(Marshmallow)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1014">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 616 616 L 674.578125 616 L 684.578125 626 L 684.578125 665 L 616 665 L 616 616"
+         id="path1012" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1018">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 616 616 L 674.578125 616 L 684.578125 626 L 684.578125 665 L 616 665 L 616 616 L 616 616"
+         stroke-miterlimit="10"
+         id="path1016" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1022">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 674.578125 616 L 674.578125 626 L 684.578125 626 L 674.578125 616"
+         stroke-miterlimit="10"
+         id="path1020" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1034">
+      <g
+         id="g1032">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1024" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="634"
+           id="text1026">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="647"
+           id="text1028">7.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="621"
+           y="660"
+           id="text1030">(Naugat)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1038">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 232 736 L 290 736 L 300 746 L 300 785 L 232 785 L 232 736"
+         id="path1036" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1042">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 232 736 L 290 736 L 300 746 L 300 785 L 232 785 L 232 736 L 232 736"
+         stroke-miterlimit="10"
+         id="path1040" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1046">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 290 736 L 290 746 L 300 746 L 290 736"
+         stroke-miterlimit="10"
+         id="path1044" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1058">
+      <g
+         id="g1056">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1048" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="237"
+           y="754"
+           id="text1050">Android</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="237"
+           y="767"
+           id="text1052">8.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="237"
+           y="780"
+           id="text1054">(Oreo)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1062">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 392 736 L 485 736 L 495 746 L 495 785 L 392 785 L 392 736"
+         id="path1060" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1066">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 392 736 L 485 736 L 495 746 L 495 785 L 392 785 L 392 736 L 392 736"
+         stroke-miterlimit="10"
+         id="path1064" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1070">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 485 736 L 485 746 L 495 746 L 485 736"
+         stroke-miterlimit="10"
+         id="path1068" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1082">
+      <g
+         id="g1080">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1072" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="397"
+           y="754"
+           id="text1074">Android 9.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="397"
+           y="767"
+           id="text1076">(Pistachio Ice</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="397"
+           y="780"
+           id="text1078">Cream)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1086">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 478 556 L 491 567"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1084" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1090">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 291 656 L 306 671"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1088" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1094">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 485 667 L 490 671"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1092" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1098">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 678 667 L 682 671"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1096" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1102">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 292 787 L 311 807"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1100" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1106">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 474 787 L 497 807"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1104" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1110">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 376 584 L 464 584"
+         stroke-miterlimit="10"
+         id="path1108" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1114">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 453.83732514237585 588.209517756016 L 464 584 L 453.83732514237585 579.790482243984"
+         id="path1112" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1118">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.83732514237585 588.209517756016 L 464 584 L 453.83732514237585 579.790482243984 L 453.83732514237585 588.209517756016"
+         stroke-miterlimit="10"
+         id="path1116" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1122">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 560 585 L 648 585"
+         stroke-miterlimit="10"
+         id="path1120" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1126">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 637.8373251423759 589.209517756016 L 648 585 L 637.8373251423758 580.790482243984"
+         id="path1124" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1130">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 637.8373251423759 589.209517756016 L 648 585 L 637.8373251423758 580.790482243984 L 637.8373251423759 589.209517756016"
+         stroke-miterlimit="10"
+         id="path1128" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1134">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 376 688 L 464 688"
+         stroke-miterlimit="10"
+         id="path1132" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1138">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 453.83732514237585 692.209517756016 L 464 688 L 453.83732514237585 683.790482243984"
+         id="path1136" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1142">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.83732514237585 692.209517756016 L 464 688 L 453.83732514237585 683.790482243984 L 453.83732514237585 692.209517756016"
+         stroke-miterlimit="10"
+         id="path1140" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1146">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 560 688 L 648 688"
+         stroke-miterlimit="10"
+         id="path1144" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1150">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 637.8373251423759 692.209517756016 L 648 688 L 637.8373251423758 683.790482243984"
+         id="path1148" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1154">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 637.8373251423759 692.209517756016 L 648 688 L 637.8373251423758 683.790482243984 L 637.8373251423759 692.209517756016"
+         stroke-miterlimit="10"
+         id="path1152" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1158">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 376 824 L 464 824"
+         stroke-miterlimit="10"
+         id="path1156" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1162">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 453.83732514237585 828.209517756016 L 464 824 L 453.83732514237585 819.790482243984"
+         id="path1160" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1166">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.83732514237585 828.209517756016 L 464 824 L 453.83732514237585 819.790482243984 L 453.83732514237585 828.209517756016"
+         stroke-miterlimit="10"
+         id="path1164" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1170">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 696 600 L 696 600 M 696 600 A 8 8 0 0 1 688 608 L 168 608 M 168 608 A 8 8 0 0 0 160 616 L 160 680 M 160 680 A 8 8 0 0 0 168 688 L 272 688"
+         stroke-miterlimit="10"
+         id="path1168" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1174">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 261.83732514237585 692.209517756016 L 272 688 L 261.83732514237585 683.790482243984"
+         id="path1172" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1178">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 261.83732514237585 692.209517756016 L 272 688 L 261.83732514237585 683.790482243984 L 261.83732514237585 692.209517756016"
+         stroke-miterlimit="10"
+         id="path1176" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1182">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 704 704 L 704 704 M 704 704 A 8 8 0 0 1 696 712 L 168 712 M 168 712 A 8 8 0 0 0 160 720 L 160 816 M 160 816 A 8 8 0 0 0 168 824 L 280 824"
+         stroke-miterlimit="10"
+         id="path1180" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1186">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 828.209517756016 L 280 824 L 269.83732514237585 819.790482243984"
+         id="path1184" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1190">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 828.209517756016 L 280 824 L 269.83732514237585 819.790482243984 L 269.83732514237585 828.209517756016"
+         stroke-miterlimit="10"
+         id="path1188" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1194">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 656 808 L 760 808 L 760 840 C 726 830 690 847.5 656 835 L 656 808 Z"
+         stroke-miterlimit="10"
+         id="path1192" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1202">
+      <g
+         id="g1200">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1196" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="671.50732421875"
+           y="828"
+           id="text1198">2019 年 9 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1206">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 584 736 L 677 736 L 687 746 L 687 791 L 584 791 L 584 736"
+         id="path1204" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1210">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 584 736 L 677 736 L 687 746 L 687 791 L 584 791 L 584 736 L 584 736"
+         stroke-miterlimit="10"
+         id="path1208" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1214">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 677 736 L 677 746 L 687 746 L 677 736"
+         stroke-miterlimit="10"
+         id="path1212" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1226">
+      <g
+         id="g1224">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1216" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="589"
+           y="754"
+           id="text1218">Android 10.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="589"
+           y="767"
+           id="text1220">(Android Q,</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="589"
+           y="780"
+           id="text1222">Quince Tart)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1230">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 671 793 L 688 807"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1228" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1234">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 568 824 L 656 824"
+         stroke-miterlimit="10"
+         id="path1232" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1238">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 645.8373251423759 828.209517756016 L 656 824 L 645.8373251423758 819.790482243984"
+         id="path1236" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1242">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 645.8373251423759 828.209517756016 L 656 824 L 645.8373251423758 819.790482243984 L 645.8373251423759 828.209517756016"
+         stroke-miterlimit="10"
+         id="path1240" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1246">
+      <path
+         fill="#00a9ff"
+         stroke="#000000"
+         d="M 280 920 L 384 920 L 384 952 C 350 942 314 959.5 280 947 L 280 920 Z"
+         stroke-miterlimit="10"
+         id="path1244" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1254">
+      <g
+         id="g1252">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1248" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="295.50732421875"
+           y="940"
+           id="text1250">2020 年 9 月</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1258">
+      <path
+         fill="#ffd6ad"
+         stroke="none"
+         d="M 224 856 L 309 856 L 319 866 L 319 905 L 224 905 L 224 856"
+         id="path1256" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1262">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 224 856 L 309 856 L 319 866 L 319 905 L 224 905 L 224 856 L 224 856"
+         stroke-miterlimit="10"
+         id="path1260" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1266">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 309 856 L 309 866 L 319 866 L 309 856"
+         stroke-miterlimit="10"
+         id="path1264" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1278">
+      <g
+         id="g1276">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1268" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="874"
+           id="text1270">Android 11.0</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="887"
+           id="text1272">(Red Velvet</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="229"
+           y="900"
+           id="text1274">Cake)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1282">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 300 907 L 313 919"
+         stroke-miterlimit="10"
+         stroke-dasharray="3"
+         id="path1280" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1286">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 704 840 L 704 840 M 704 840 A 8 8 0 0 1 696 848 L 168 848 M 168 848 A 8 8 0 0 0 160 856 L 160 928 M 160 928 A 8 8 0 0 0 168 936 L 280 936"
+         stroke-miterlimit="10"
+         id="path1284" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1290">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 269.83732514237585 940.209517756016 L 280 936 L 269.83732514237585 931.790482243984"
+         id="path1288" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1294">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 269.83732514237585 940.209517756016 L 280 936 L 269.83732514237585 931.790482243984 L 269.83732514237585 940.209517756016"
+         stroke-miterlimit="10"
+         id="path1292" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1298">
+      <rect
+         fill="#00ad00"
+         stroke="none"
+         x="464"
+         y="920"
+         width="81.15625"
+         height="32"
+         id="rect1296" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1302">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 464 920 L 545.15625 920 L 545.15625 952 L 464 952 L 464 920 Z Z"
+         stroke-miterlimit="10"
+         id="path1300" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1310">
+      <g
+         id="g1308">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1304" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="473.5"
+           y="942.5"
+           id="text1306">Continuing</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1314">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 936 L 464 936"
+         stroke-miterlimit="10"
+         id="path1312" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1318">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 453.83732514237585 940.209517756016 L 464 936 L 453.83732514237585 931.790482243984"
+         id="path1316" />
+    </g>
+    <g
+       transform="translate(-118,-38) scale(1,1)"
+       id="g1322">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.83732514237585 940.209517756016 L 464 936 L 453.83732514237585 931.790482243984 L 453.83732514237585 940.209517756016"
+         stroke-miterlimit="10"
+         id="path1320" />
+    </g>
+  </g>
+</svg>
